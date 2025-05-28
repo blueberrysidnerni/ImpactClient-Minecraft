@@ -3,7 +3,7 @@
 ![Minecraft](https://img.shields.io/badge/Platform-Minecraft-blue?style=flat-square)
 ![Baritone](https://img.shields.io/badge/Integration-Baritone-brightgreen?style=flat-square)
 ![Update](https://img.shields.io/badge/Updated-2025-blue?style=flat-square)
-![Multi-Version](https://img.shields.io/badge/1.12--1.16.5-Supported-blue?style=flat-square)
+![Multi-Version](https://img.shields.io/badge/1.12--1.21x-Supported-blue?style=flat-square)
 ![Free](https://img.shields.io/badge/Free-Download-brightgreen?style=flat-square)
 
 **PC Only — for Windows.**
