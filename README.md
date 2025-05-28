@@ -1,4 +1,4 @@
-# Impact Client 2025 – Enhanced Minecraft Utility & Automation Free Download
+# Impact Client 2025 – Enhanced Minecraft Utility & Automation
 
 ![Minecraft](https://img.shields.io/badge/Platform-Minecraft-blue?style=flat-square)
 ![Baritone](https://img.shields.io/badge/Integration-Baritone-brightgreen?style=flat-square)
@@ -8,7 +8,7 @@
 
 **PC Only — for Windows.**
 
-**Impact Client 2025 - Download Free Minecraft Baritone Client for 1.12–1.16.5**
+**Impact Client 2025 - Minecraft Baritone Client for 1.12–1.21x**
 
 ---
 
